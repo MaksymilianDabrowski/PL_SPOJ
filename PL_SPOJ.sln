@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POTSAM", "POTSAM\POTSAM.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AL_05_01", "AL_05_01\AL_05_01.csproj", "{3712725E-D5A0-47D0-ABCF-B695D805033B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FR_09_06", "FR_09_06\FR_09_06.csproj", "{90496FEF-2A38-4E14-83CB-FC56970B5693}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3712725E-D5A0-47D0-ABCF-B695D805033B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3712725E-D5A0-47D0-ABCF-B695D805033B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3712725E-D5A0-47D0-ABCF-B695D805033B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90496FEF-2A38-4E14-83CB-FC56970B5693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90496FEF-2A38-4E14-83CB-FC56970B5693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90496FEF-2A38-4E14-83CB-FC56970B5693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90496FEF-2A38-4E14-83CB-FC56970B5693}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
