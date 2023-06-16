@@ -1,5 +1,6 @@
 ﻿using System;
 
+//https://pl.spoj.com/problems/FR_14_02/
 namespace spoje_praca
 {
     internal class Program
