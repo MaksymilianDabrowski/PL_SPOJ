@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSR", "VSR\VSR.csproj", "{8
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FR_02_06", "FR_02_06\FR_02_06.csproj", "{DCCC484B-1395-4E8A-9371-BE2360939856}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTROL", "PTROL\PTROL.csproj", "{086EA8DB-C6CC-4E3B-9229-C6A820B3A1D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{DCCC484B-1395-4E8A-9371-BE2360939856}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCCC484B-1395-4E8A-9371-BE2360939856}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCCC484B-1395-4E8A-9371-BE2360939856}.Release|Any CPU.Build.0 = Release|Any CPU
+		{086EA8DB-C6CC-4E3B-9229-C6A820B3A1D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{086EA8DB-C6CC-4E3B-9229-C6A820B3A1D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{086EA8DB-C6CC-4E3B-9229-C6A820B3A1D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{086EA8DB-C6CC-4E3B-9229-C6A820B3A1D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
